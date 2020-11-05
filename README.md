@@ -1,5 +1,9 @@
 # Laboratorio Avanzado - Curso de Cosmo-Estadística #
 
+Por Gustavo Niz.
+
+Curso sobre algunas herramientas de estadística utilizadas en cosmología. El curso es del 5 de Noviembre a mediados de Diciembre de 2020. Para ser parte del curso deben inscribirse a Github Classroom mediante el siguiente [link](https://classroom.github.com/a/RdJb2vw0). 
+
 ## Evaluación del curso ##
 
 - Se evalua el curso a partir de los sets de ejercios únicamente. Cada set de ejercicios tiene el mismo peso, y la calificación final será el promedio.
