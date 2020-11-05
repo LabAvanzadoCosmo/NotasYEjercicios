@@ -1,6 +1,6 @@
 # Ejercicios 2
 
-## Entrega Jueves 25 de Octubre
+## Entrega Jueves 12 de Noviembre
 
 1. Código personal que calcule transformada de Fourier de una función f(x)
 
@@ -16,3 +16,5 @@
 
 4. Código que calcule histograma de distancias para 2d y 3d de una distribución de puntos aleatorios, 
 escogiendo el tamaño de los bins, y normalizada a que su area sea 1.
+
+5. Sube el set de ejercicios a tu Github Classroom y recuerda hacer tu **autoevaluación** de este set de ejercicios en el archivo _autoeval.md_.

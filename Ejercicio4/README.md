@@ -1,6 +1,6 @@
 # Ejercicios 4
 
-## Entrega Jueves 29 de Noviembre
+## Entrega Jueves 4 de Diciembre
 
 1.  Generar datos con “corrimiento al rojo” para los datos del Anillo en 2d. Para ello debemos crear mapa de velocidad: 
 en una vecindad de L/10 de cada punto "pivote" en los datos, encontrar el punto más cercano y generar una velocidad 

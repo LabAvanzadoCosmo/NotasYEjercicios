@@ -1,6 +1,6 @@
-# Ejercicios 5 (Proyecto Final)
+# Ejercicios 5 
 
-## Entrega Domingo 9 de Diciembre
+## Entrega Jueves 10 de Diciembre
 
 1. Pesos en la función de correlación (estimador de Landy-Salay)
 

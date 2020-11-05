@@ -1,6 +1,6 @@
 # Ejercicios 3
 
-## Entrega Jueves 22 de Noviembre
+## Entrega Jueves 26 de Noviembre
 
 1. Encuentra el espectro de potencias en 1d, 2d y 3d para la función de correlación 
 
