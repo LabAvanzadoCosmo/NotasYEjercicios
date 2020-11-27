@@ -1,4 +1,4 @@
-# Ejercicios 2
+# Ejercicios 1
 
 ## Entrega Jueves 12 de Noviembre
 
